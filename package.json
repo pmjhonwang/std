@@ -1,0 +1,15 @@
+{
+  "name": "@pmjhonwang/std",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build:registry": "jsrepo build",
+    "release:registry": "jsrepo publish"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.7.1"
+}
+

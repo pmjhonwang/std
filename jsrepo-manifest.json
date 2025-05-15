@@ -1,0 +1,25 @@
+{
+  "name": "@pmjhonwang/std",
+  "version": "1.0.0",
+  "categories": [
+    {
+      "name": "utils",
+      "blocks": [
+        {
+          "name": "add",
+          "directory": "src/utils",
+          "category": "utils",
+          "tests": false,
+          "subdirectory": false,
+          "list": true,
+          "files": ["add.ts"],
+          "localDependencies": [],
+          "_imports_": {},
+          "dependencies": [],
+          "devDependencies": []
+        }
+      ]
+    }
+  ]
+}
+
